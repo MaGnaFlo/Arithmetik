@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>StartPage.qml</file>
+        <file>GamePage.qml</file>
+        <file>ResultPage.qml</file>
+        <file>CalibrationPage.qml</file>
+    </qresource>
+</RCC>
