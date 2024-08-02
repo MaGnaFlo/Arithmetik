@@ -3,3 +3,4 @@
 !.gitignore
 !src
 src/CMakeLists.txt.user
+src/.DS_Store
